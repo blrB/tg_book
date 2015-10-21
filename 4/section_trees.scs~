@@ -1,0 +1,22 @@
+section_directed_acyclic_graph
+=> nrel_main_idtf:
+	[Раздел 4.1 Ориентированные ациклические графы]
+	(* <- lang_ru;; *);
+	[Section 4.1 Directed acyclic graph]
+	(* <- lang_en;; *);
+
+<= nrel_sc_text_translation: 
+
+		...
+		(*
+		-> rrel_example:
+			"file://html/4.1_eng.html"
+			(* <- lang_en;; *);;
+		*);
+		...
+		(*
+		-> rrel_example:
+			"file://html/4.1.html"
+			(* <- lang_ru;; *);;
+		*);;
+

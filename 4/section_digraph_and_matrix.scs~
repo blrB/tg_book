@@ -1,0 +1,22 @@
+section_digraph_and_matrix
+=> nrel_main_idtf:
+	[Раздел 3.2 Орграфы и матрицы]
+	(* <- lang_ru;; *);
+	[Section 3.2 Digraph and matrix]
+	(* <- lang_en;; *);
+
+<= nrel_sc_text_translation: 
+
+		...
+		(*
+		-> rrel_example:
+			"file://html/3.2_eng.html"
+			(* <- lang_en;; *);;
+		*);
+		...
+		(*
+		-> rrel_example:
+			"file://html/3.2.html"
+			(* <- lang_ru;; *);;
+		*);;
+

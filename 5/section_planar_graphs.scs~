@@ -1,0 +1,22 @@
+section_planar_graphs
+=> nrel_main_idtf:
+	[Раздел 5.1 Планарные графы]
+	(* <- lang_ru;; *);
+	[Section 5.1 Planar graphs]
+	(* <- lang_en;; *);
+
+<= nrel_sc_text_translation: 
+
+		...
+		(*
+		-> rrel_example:
+			"file://html/5.1_eng.html"
+			(* <- lang_en;; *);;
+		*);
+		...
+		(*
+		-> rrel_example:
+			"file://html/5.1.html"
+			(* <- lang_ru;; *);;
+		*);;
+

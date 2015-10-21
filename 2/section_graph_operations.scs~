@@ -1,0 +1,22 @@
+section_graph_operations
+=> nrel_main_idtf:
+	[Раздел 2.6 Операции над графами]
+	(* <- lang_ru;; *);
+	[Section 2.6 Graph operations]
+	(* <- lang_en;; *);
+
+<= nrel_sc_text_translation: 
+
+		...
+		(*
+		-> rrel_example:
+			"file://html/2.6_eng.html"
+			(* <- lang_en;; *);;
+		*);
+		...
+		(*
+		-> rrel_example:
+			"file://html/2.6.html"
+			(* <- lang_ru;; *);;
+		*);;
+

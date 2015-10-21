@@ -1,0 +1,22 @@
+section_definitions_and_examples_digraphs
+=> nrel_main_idtf:
+	[Раздел 3.1 Определения и примеры]
+	(* <- lang_ru;; *);
+	[Section 3.1 Definitions and examples]
+	(* <- lang_en;; *);
+
+<= nrel_sc_text_translation: 
+
+		...
+		(*
+		-> rrel_example:
+			"file://html/3.1_eng.html"
+			(* <- lang_en;; *);;
+		*);
+		...
+		(*
+		-> rrel_example:
+			"file://html/3.1.html"
+			(* <- lang_ru;; *);;
+		*);;
+

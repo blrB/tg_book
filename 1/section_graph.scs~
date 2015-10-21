@@ -1,0 +1,53 @@
+section_sets
+=> nrel_main_idtf:
+	[Раздел. Множества]
+	(* <- lang_ru;; *);
+	[Section. Sets]
+	(* <- lang_en;; *);
+
+=> nrel_exercise: section_sets_exercises;
+
+<= nrel_section_decomposition:
+	{
+		section_notion_of_a_set
+		(*
+		=> nrel_section_base_order: 
+			section_specifying_a_set;;
+		*);
+		section_specifying_a_set
+		(*
+		=> nrel_section_base_order: 
+			section_tuples;;
+		*);
+		section_tuples
+		(*
+		=> nrel_section_base_order: 
+			section_often_used_sets;;
+		*);
+		section_often_used_sets
+		(*
+		=> nrel_section_base_order: 
+			section_the_universal_set;;
+		*);
+		section_the_universal_set
+		(*
+		=> nrel_section_base_order: 
+			section_venn_diagrams;;
+		*);
+		section_venn_diagrams
+		(*
+		=> nrel_section_base_order: 
+			section_sets_of_sets;;
+		*);
+		section_sets_of_sets
+		(*
+		=> nrel_section_base_order: 
+			section_the_empty_set;;
+		*);
+		section_the_empty_set
+		(*
+		=> nrel_section_base_order: 
+			section_power_sets;;
+		*);
+		section_power_sets
+	};;
