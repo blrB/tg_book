@@ -1,4 +1,4 @@
-section_sets_exercise3
+section_graph_exercise3
 => nrel_main_idtf:
 	[Раздел 1. Упражнение 3]
 	(* <- lang_ru;; *);
@@ -7,9 +7,9 @@ section_sets_exercise3
 <= nrel_sc_text_translation:
 		...
 		(* 
-		-> rrel_example: "file://htmls/section_sets_exercise3.html" (* <-lang_ru;; *);;
+		-> rrel_example: "file://htmls/section_graph_exercise3.html" (* <-lang_ru;; *);;
 		*);
 		...
 		(*
-		-> rrel_example: "file://htmls/section_sets_exercise3_en .html" (* <-lang_en;; *);; 
+		-> rrel_example: "file://htmls/section_graph_exercise3_en .html" (* <-lang_en;; *);; 
 		*);;

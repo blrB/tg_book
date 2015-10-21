@@ -1,8 +1,8 @@
 section_graph_exercise1
 => nrel_main_idtf:
-	[Раздел 1. Упражнение 1]
+	[Упражнения. Упражнение 1]
 	(* <- lang_ru;; *);
-	[Section 1. Exercise 1]
+	[Exercises. Exercise 1]
 	(* <- lang_en;; *);
 =>nrel_next: section_graph_exercise2;
 <= nrel_sc_text_translation:
