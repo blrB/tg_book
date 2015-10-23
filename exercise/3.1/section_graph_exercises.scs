@@ -1,0 +1,23 @@
+section_graph_exercises_3_1
+=> nrel_main_idtf:
+	[Упражнения. Определения и примеры]
+	(* <- lang_ru;; *);
+	[Exercises. Definitions and examples]
+	(* <- lang_en;; *);
+
+<= nrel_section_decomposition:
+	{
+		section_graph_exercise_3_1_1
+		(*
+		=> nrel_section_base_order: 
+			section_graph_exercise_3_1_2;;
+		*);
+		section_graph_exercise_3_1_2
+		(*
+		=> nrel_section_base_order: 
+			section_graph_exercise_3_1_3;;
+		*);
+		section_graph_exercise_3_1_3
+	};
+
+<-concept_exercise;;

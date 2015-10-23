@@ -1,0 +1,23 @@
+section_graph_exercises_4_1
+=> nrel_main_idtf:
+	[Упражнения. Ориентированные ациклические графы]
+	(* <- lang_ru;; *);
+	[Exercises. Directed acyclic graph]
+	(* <- lang_en;; *);
+
+<= nrel_section_decomposition:
+	{
+		section_graph_exercise_4_1_1
+		(*
+		=> nrel_section_base_order: 
+			section_graph_exercise_4_1_2;;
+		*);
+		section_graph_exercise_4_1_2
+		(*
+		=> nrel_section_base_order: 
+			section_graph_exercise_4_1_3;;
+		*);
+		section_graph_exercise_4_1_3
+	};
+
+<-concept_exercise;;

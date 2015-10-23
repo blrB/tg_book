@@ -1,0 +1,23 @@
+section_graph_exercises_2_4
+=> nrel_main_idtf:
+	[Упражнения. Маршруты, цепи, пути и циклы]
+	(* <- lang_ru;; *);
+	[Exercises. Section routes circuit paths and cycles]
+	(* <- lang_en;; *);
+
+<= nrel_section_decomposition:
+	{
+		section_graph_exercise_2_4_1
+		(*
+		=> nrel_section_base_order: 
+			section_graph_exercise_2_4_2;;
+		*);
+		section_graph_exercise_2_4_2
+		(*
+		=> nrel_section_base_order: 
+			section_graph_exercise_2_4_3;;
+		*);
+		section_graph_exercise_2_4_3
+	};
+
+<-concept_exercise;;

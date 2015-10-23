@@ -1,0 +1,23 @@
+section_graph_exercises_2_6
+=> nrel_main_idtf:
+	[Упражнения. Операции над графами]
+	(* <- lang_ru;; *);
+	[Exercises. Graph operations]
+	(* <- lang_en;; *);
+
+<= nrel_section_decomposition:
+	{
+		section_graph_exercise_2_6_1
+		(*
+		=> nrel_section_base_order: 
+			section_graph_exercise_2_6_2;;
+		*);
+		section_graph_exercise_2_6_2
+		(*
+		=> nrel_section_base_order: 
+			section_graph_exercise_2_6_3;;
+		*);
+		section_graph_exercise_2_6_3
+	};
+
+<-concept_exercise;;

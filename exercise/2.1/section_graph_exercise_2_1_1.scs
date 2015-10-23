@@ -14,4 +14,4 @@ section_graph_exercise_2_1_1
 		(*
 		-> rrel_example: "file://htmls/section_graph_exercise1_en.html" (* <-lang_en;; *);; 
 		*);
-=>graph_exercise_2_1_1;;
+=>graph_exercise_2_1;;

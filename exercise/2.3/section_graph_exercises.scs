@@ -1,0 +1,23 @@
+section_graph_exercises_2_3
+=> nrel_main_idtf:
+	[Упражнения. Сильно связные графы и компоненты графа]
+	(* <- lang_ru;; *);
+	[Exercises. Strongly connected components graphs and graph]
+	(* <- lang_en;; *);
+
+<= nrel_section_decomposition:
+	{
+		section_graph_exercise_2_3_1
+		(*
+		=> nrel_section_base_order: 
+			section_graph_exercise_2_3_2;;
+		*);
+		section_graph_exercise_2_3_2
+		(*
+		=> nrel_section_base_order: 
+			section_graph_exercise_2_3_3;;
+		*);
+		section_graph_exercise_2_3_3
+	};
+
+<-concept_exercise;;

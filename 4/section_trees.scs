@@ -5,6 +5,9 @@ section_directed_acyclic_graph
 	[Section. Directed acyclic graph]
 	(* <- lang_en;; *);
 
+=> nrel_exercise: section_graph_exercises_4_1;
+
+
 <= nrel_sc_text_translation: 
 
 		...

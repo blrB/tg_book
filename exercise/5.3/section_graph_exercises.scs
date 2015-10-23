@@ -1,0 +1,23 @@
+section_graph_exercises_5_3
+=> nrel_main_idtf:
+	[Упражнения. Двойственные графы]
+	(* <- lang_ru;; *);
+	[Exercises. Dual graph]
+	(* <- lang_en;; *);
+
+<= nrel_section_decomposition:
+	{
+		section_graph_exercise_5_3_1
+		(*
+		=> nrel_section_base_order: 
+			section_graph_exercise_5_3_2;;
+		*);
+		section_graph_exercise_5_3_2
+		(*
+		=> nrel_section_base_order: 
+			section_graph_exercise_5_3_3;;
+		*);
+		section_graph_exercise_5_3_3
+	};
+
+<-concept_exercise;;
