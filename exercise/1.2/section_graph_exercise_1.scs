@@ -14,4 +14,22 @@ section_graph_exercise_1_2_1
 		(*
 		-> rrel_example: "file://htmls/section_graph_exercise1_en.html" (* <-lang_en;; *);; 
 		*);
-=>graph_exercise_2_1_1;;
+=>graph_exercise_1_2_1_answer;;
+
+graph_exercise_1_2_1_answer
+=> nrel_main_idtf:
+	[Упражнения. Упражнение 1 Ответ]
+	(* <- lang_ru;; *);
+	[Exercises. Exercise 1 Answer]
+	(* <- lang_en;; *);
+<=nrel_sc_text_translation:
+    ...
+    (*
+    -> rrel_example: [Граф можно задать картинкой, списком или матрицей] (*<-lang_ru;;*);;
+    *);
+	...
+	(*
+    -> rrel_example: [You can imagine graf how images, lists, matrix] (*<-lang_ru;;*);;
+    *);;
+
+
