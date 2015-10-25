@@ -5,7 +5,7 @@ section_breadth_first_search
 	[Section. Breadth-first search]
 	(* <- lang_en;; *);
 
-=> nrel_exercise: section_graph_exercises_6_3;
+//=> nrel_exercise: section_graph_exercises_6_3;
 
 
 <= nrel_sc_text_translation: 

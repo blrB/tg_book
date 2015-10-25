@@ -5,7 +5,7 @@ section_subgraphs
 	[Section. Subgraphs]
 	(* <- lang_en;; *);
 
-=> nrel_exercise: section_graph_exercises_2_2;
+//=> nrel_exercise: section_graph_exercises_2_2;
 
 
 <= nrel_sc_text_translation: 

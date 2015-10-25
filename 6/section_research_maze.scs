@@ -5,7 +5,7 @@ section_research_maze
 	[Section. Research maze]
 	(* <- lang_en;; *);
 
-=> nrel_exercise: section_graph_exercises_6_1;
+//=> nrel_exercise: section_graph_exercises_6_1;
 
 
 <= nrel_sc_text_translation: 

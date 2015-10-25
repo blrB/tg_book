@@ -37,16 +37,16 @@ search</font></font>
 <font size="4" style="font-size: 14pt">Suppose we want to find the
 shortest route </font><font size="4" style="font-size: 14pt"><span lang="en-US">(shortest</span></font>
 <font size="4" style="font-size: 14pt"><span lang="en-US">path)</span></font><font size="4" style="font-size: 14pt">
-between two specific nodes of a graph - a path connecting the
+between two specific nodes of a <i><sc_element sys_idtf = "concept_graph">graph</sc_element></i>  - a path connecting the
 vertices with the property that no other path connecting these
 vertices contains no fewer edges.</font> <font size="4" style="font-size: 14pt">The
 classical method of solving this problem, called the breadth-first
 search </font><font size="4" style="font-size: 14pt"><span lang="en-US">(BFS</span></font><font size="4" style="font-size: 14pt">
 - breath - first</font> <font size="4" style="font-size: 14pt"><span lang="en-US">search),</span></font><font size="4" style="font-size: 14pt">
-is the basis of many graph algorithms;</font> <font size="4" style="font-size: 14pt">That
+is the basis of many <i><sc_element sys_idtf = "concept_graph">graph</sc_element></i>  algorithms;</font> <font size="4" style="font-size: 14pt">That
 he will be studied in this section.</font> <font size="4" style="font-size: 14pt">Dfs
 little use for this task, because his proposed order of passage of
-the graph is not related to the search of the shortest paths.</font>
+the <i><sc_element sys_idtf = "concept_graph">graph</sc_element></i>  is not related to the search of the shortest paths.</font>
 <font size="4" style="font-size: 14pt">In contrast to the depth-first
 search, breadth-first search is designed just for this purpose.</font>
 <font size="4" style="font-size: 14pt">Find the shortest path from
@@ -60,7 +60,7 @@ etc.</font>
 </p>
 <p class="western" align="justify" style="text-indent: 1.25cm; margin-bottom: 0cm; line-height: 130%">
 <font size="4" style="font-size: 14pt">When, during the viewing of
-the graph we get to a point from which originate more than one edge,
+the <i><sc_element sys_idtf = "concept_graph">graph</sc_element></i>  we get to a point from which originate more than one edge,
 we choose one of them and remember the rest for later viewing.</font>
 <font size="4" style="font-size: 14pt">Looking in depth for this
 purpose we use a stack magazine type (which manages the system,
@@ -117,16 +117,16 @@ vertex 0.</font>
 the breadth-first search on a given example.</font> <font size="4" style="font-size: 14pt">We
 start it at all the edges, adjacent to the initial vertex line
 (diagram above left).</font> <font size="4" style="font-size: 14pt">Next,
-we move from a 0-2 edge in the tree line and proceed to the
+we move from a 0-2 edge in the <i><sc_element sys_idtf = "concept_tree">tree</sc_element></i>  line and proceed to the
 processing of edges incident to 2-0 and 2-6 (the second chart from
 top left).</font> <font size="4" style="font-size: 14pt">We do not
-put a 2-0 edge in place as the top 0 is already in the tree.</font>
+put a 2-0 edge in place as the top 0 is already in the <i><sc_element sys_idtf = "concept_tree">tree</sc_element></i>.</font>
 <font size="4" style="font-size: 14pt">Then we transfer 0-5 edge from
-the queue in a tree;</font> <font size="4" style="font-size: 14pt">and
+the queue in a <i><sc_element sys_idtf = "concept_tree">tree</sc_element></i>;</font> <font size="4" style="font-size: 14pt">and
 over the edges incident to the top 5, not lead us to new heights, but
 we add in all the edges 5-3 and 5-4 (third diagram from the top
 left).</font> <font size="4" style="font-size: 14pt">Then we add an
-edge 0-7 in a tree and set in place a 7-1 edge (diagram at bottom
+edge 0-7 in a <i><sc_element sys_idtf = "concept_tree">tree</sc_element></i> and set in place a 7-1 edge (diagram at bottom
 left).</font> 
 </p>
 <p class="western" align="justify" style="text-indent: 1.25cm; margin-bottom: 0cm; line-height: 130%">
@@ -151,7 +151,7 @@ between these two methods there is a strong deep bond.</font>
 <p class="western" align="justify" style="text-indent: 1.25cm; margin-bottom: 0cm; line-height: 130%">
 <font face="Times New Roman, serif"><font size="4" style="font-size: 14pt">With
 the breadth-first search, we can solve the problem of finding a
-spanning tree of connected components, search vertices and a number
+spanning <i><sc_element sys_idtf = "concept_tree">tree</sc_element></i> of connected components, search vertices and a number
 of other basic connectivity problems, as discussed solutions depend
 only on the ability of the search algorithm to analyze each node and
 each edge connected with the starting point.</font></font> <font face="Times New Roman, serif"><font size="4" style="font-size: 14pt">Searches
@@ -159,7 +159,7 @@ in width and depth of the patterns are numerous algorithms that have
 this property.</font></font> <font face="Times New Roman, serif"><font size="4" style="font-size: 14pt">As
 noted at the beginning of this section, our increased interest in the
 breadth-first search because it is a natural search algorithm on the
-graph for applications in conditions which need to know the shortest
+<i><sc_element sys_idtf = "concept_graph">graph</sc_element></i>  for applications in conditions which need to know the shortest
 path between two given vertices.</font></font> <font face="Times New Roman, serif"><font size="4" style="font-size: 14pt">Next,
 we consider the specific solution for this problem.</font></font> 
 </p>

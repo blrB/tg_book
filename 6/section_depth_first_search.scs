@@ -5,7 +5,7 @@ section_depth_first_search
 	[Section. Depth-first search]
 	(* <- lang_en;; *);
 
-=> nrel_exercise: section_graph_exercises_6_2;
+//=> nrel_exercise: section_graph_exercises_6_2;
 
 
 <= nrel_sc_text_translation: 

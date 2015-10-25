@@ -27,7 +27,7 @@
 исследованиям Тремо объясняется тем
 обстоятельством, что этот метод
 непосредственно приводит к классической
-рекурсивной функции обхода графов:
+рекурсивной функции обхода <i><sc_element sys_idtf = "concept_graph">графов</sc_element></i>:
 посетив конкретную вершину, мы помечаем
 ее специальной меткой, свидетельствующей
 о том, что она посещена, затем, в режиме
@@ -49,7 +49,7 @@
 <font size="4" style="font-size: 14pt">На рисунке 42 дается
 графическое представление процесса
 исследования лабиринта, для которого
-используются стандартные чертежи графа.
+используются стандартные чертежи <i><sc_element sys_idtf = "concept_graph">графа</sc_element></i>.
 Указанные рисунки служат иллюстрацией
 динамики рекурсивного метода </font><font size="4" style="font-size: 14pt"><span lang="en-US">DFS</span></font><font size="4" style="font-size: 14pt">
 и его соответствия с исследованием
@@ -64,14 +64,14 @@
 <font size="4" style="font-size: 14pt">Данные диаграммы
 представляют собой графическое
 представление процесса поиска. Ребра
-графа, выделенные толстыми жирными
-линиями, соответствуют ребрам в дереве
+<i><sc_element sys_idtf = "concept_graph">графа</sc_element></i>, выделенные толстыми жирными
+линиями, соответствуют ребрам в <i><sc_element sys_idtf = "concept_tree">дереве</sc_element></i>
 </font><font size="4" style="font-size: 14pt"><span lang="en-US">DFS</span></font><font size="4" style="font-size: 14pt">,
 показанном справа от каждой диаграммы
-графа. Заштрихованные ребра — это ребра,
-намеченные для включения в дерево на
+<i><sc_element sys_idtf = "concept_graph">графа</sc_element></i>. Заштрихованные ребра — это ребра,
+намеченные для включения в <i><sc_element sys_idtf = "concept_tree">дерево</sc_element></i> на
 следующих шагах. На ранних стадиях
-(слева) выполнения алгоритма дерево
+(слева) выполнения алгоритма <i><sc_element sys_idtf = "concept_tree">дерево</sc_element></i>
 растет вниз в виде прямой линии, что
 соответствует рекурсивным вызовам для
 вершин 0,2, 6 и 4 (слева). Затем мы выполняем
@@ -86,12 +86,12 @@
 <font size="4" style="font-size: 14pt">Подобно тому, как
 при обходе лабиринта мы дважды сталкиваемся
 с каждым коридором (по одному разу с
-каждого конца), так и в графе мы дважды
+каждого конца), так и в <i><sc_element sys_idtf = "concept_graph">графе</sc_element></i> мы дважды
 сталкиваемся с каждым ребром (по одному
 разу в каждой его вершине). При проведении
 исследования Тремо мы открываем двери
 в обоих концах коридора. Применяя поиск
-в глубину к неориентированному графу,
+в глубину к <i><sc_element sys_idtf = "concept_undirected_graph">неориентированному графу</sc_element></i>,
 мы проверяем оба представления каждого
 ребра. Если мы встречаем ребро </font><font size="4" style="font-size: 14pt"><span lang="en-US">v</span></font><font size="4" style="font-size: 14pt">-</font><font size="4" style="font-size: 14pt"><span lang="en-US">w</span></font><font size="4" style="font-size: 14pt">,
 то либо совершаем рекурсивный поиск
@@ -116,7 +116,7 @@
 в вершину </font><font size="4" style="font-size: 14pt"><span lang="en-US">w</span></font><font size="4" style="font-size: 14pt">,
 мы не проверяем никаких ребер, ведущих
 из вершины </font><font size="4" style="font-size: 14pt"><span lang="en-US">w</span></font><font size="4" style="font-size: 14pt">
-в другие вершины графа. В частности, мы
+в другие вершины <i><sc_element sys_idtf = "concept_graph">графа</sc_element></i>. В частности, мы
 знаем, что существует ребро из </font><font size="4" style="font-size: 14pt"><span lang="en-US">v</span></font><font size="4" style="font-size: 14pt">
 в </font><font size="4" style="font-size: 14pt"><span lang="en-US">w</span></font><font size="4" style="font-size: 14pt">
 и оно будет проигнорировано, когда мы

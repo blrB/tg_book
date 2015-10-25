@@ -5,7 +5,7 @@ section_routes_circuit_paths_and_cycles
 	[Section. Section routes circuit paths and cycles]
 	(* <- lang_en;; *);
 
-=> nrel_exercise: section_graph_exercises_2_4;
+//=> nrel_exercise: section_graph_exercises_2_4;
 
 <= nrel_sc_text_translation: 
 
