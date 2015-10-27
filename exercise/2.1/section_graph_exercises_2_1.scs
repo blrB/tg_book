@@ -18,6 +18,21 @@ section_graph_exercises_2_1
 			section_graph_exercise_2_1_3;;
 		*);
 		section_graph_exercise_2_1_3
+		(*
+		=> nrel_section_base_order: 
+			section_graph_exercise_2_1_4;;
+		*);
+		section_graph_exercise_2_1_4
+		(*
+		=> nrel_section_base_order: 
+			section_graph_exercise_2_1_5;;
+		*);
+		section_graph_exercise_2_1_5
+		(*
+		=> nrel_section_base_order: 
+			section_graph_exercise_2_1_6;;
+		*);
+		section_graph_exercise_2_1_6
 	};
 
 <-concept_exercise;;

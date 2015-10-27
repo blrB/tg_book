@@ -7,114 +7,107 @@ exercise_section_subject_domain_of_graph
 
 <= nrel_section_decomposition:
 	{
-//		section_graph_exercises_1_1
-//		(*
-//		=> nrel_section_base_order: 
-//			section_graph_exercises_1_2;;
-//		*);
-//		section_graph_exercises_1_2
-//		(*
-//		=> nrel_section_base_order: 
-//			section_graph_exercises_2_1;;
-//		*);
-//		section_graph_exercises_2_1
-//		(*
-//		=> nrel_section_base_order: 
-//			section_graph_exercises_2_2;;
-//		*);
-//		section_graph_exercises_2_2
-//		(*
-//		=> nrel_section_base_order: 
-//			section_graph_exercises_2_3;;
-//		*);
-//		section_graph_exercises_2_3
-//		(*
-//		=> nrel_section_base_order: 
-//			section_graph_exercises_2_4;;
-//		*);
-//		section_graph_exercises_2_4
-//				(*
-//		=> nrel_section_base_order: 
-//			section_graph_exercises_2_5;;
-//		*);
-//		section_graph_exercises_2_5
-//		(*
-//		=> nrel_section_base_order: 
-//			section_graph_exercises_2_6;;
-//		*);
-//		section_graph_exercises_2_6
-//		(*
-//		=> nrel_section_base_order: 
-//			section_graph_exercises_2_7;;
-//		*);
-//		section_graph_exercises_2_7
-//		(*
-//		=> nrel_section_base_order: 
-//			section_graph_exercises_3_1;;
-//		*);
-//		section_graph_exercises_3_1
-//		(*
-//		=> nrel_section_base_order: 
-//			section_graph_exercises_3_2;;
-//		*);
-//		section_graph_exercises_3_2
-//		(*
-//		=> nrel_section_base_order: 
-//			section_graph_exercises_3_3;;
-//		*);
-//		section_graph_exercises_3_3
-//		(*
-//		=> nrel_section_base_order: 
-//			section_graph_exercises_4_1;;
-//		*);
-//		section_graph_exercises_4_1
-//		(*
-//		=> nrel_section_base_order: 
-//			section_graph_exercises_4_2;;
-//		*);
-//		section_graph_exercises_4_2
-//		(*
-//		=> nrel_section_base_order: 
-//			section_graph_exercises_5_1;;
-//		*);
-//		section_graph_exercises_5_1
-//		(*
-//		=> nrel_section_base_order: 
-//			section_graph_exercises_5_2;;
-//		*);
-//		section_graph_exercises_5_2
-//		(*
-//		=> nrel_section_base_order: 
-//			section_graph_exercises_5_3;;
-//		*);
-//		section_graph_exercises_5_3
-//		(*
-//		=> nrel_section_base_order: 
-//			section_graph_exercises_6_1;;
-//		*);
-//		section_graph_exercises_6_1
-//		(*
-//		=> nrel_section_base_order: 
-//			section_graph_exercises_6_2;;
-//		*);
-//		section_graph_exercises_6_2
-//		(*
-//		=> nrel_section_base_order: 
-//			section_graph_exercises_6_3;;
-//		*);
-//		section_graph_exercises_6_3
-//		(*
-//		=> nrel_section_base_order: 
-//			section_graph_exercises_6_4;;
-//		*);
-//		section_graph_exercises_6_4
-        section_exercises_symmetric_graph;
-        section_exercises_complete_graph;
-        section_exercises_tree;
-        section_exercises_bipartite_graph;
-        section_exercises_bipartite_graph_find_set;
-        section_exercises_define_the_properties_of_the_graph;
-        section_exercises_find_point_articulation	
+  		section_graph_exercises_1_1
+  		(*
+  		=> nrel_section_base_order: 
+  			section_graph_exercises_1_2;;
+  		*);
+  		section_graph_exercises_1_2
+  		(*
+  		=> nrel_section_base_order: 
+  			section_graph_exercises_2_1;;
+  		*);
+  		section_graph_exercises_2_1
+  		(*
+  		=> nrel_section_base_order: 
+  			section_graph_exercises_2_2;;
+  		*);
+  		section_graph_exercises_2_2
+  		(*
+  		=> nrel_section_base_order: 
+  			section_graph_exercises_2_3;;
+  		*);
+  		section_graph_exercises_2_3
+  		(*
+  		=> nrel_section_base_order: 
+  			section_graph_exercises_2_4;;
+  		*);
+  		section_graph_exercises_2_4
+  				(*
+  		=> nrel_section_base_order: 
+  			section_graph_exercises_2_5;;
+  		*);
+  		section_graph_exercises_2_5
+  		(*
+  		=> nrel_section_base_order: 
+  			section_graph_exercises_2_6;;
+  		*);
+  		section_graph_exercises_2_6
+  		(*
+  		=> nrel_section_base_order: 
+  			section_graph_exercises_2_7;;
+  		*);
+  		section_graph_exercises_2_7
+  		(*
+  		=> nrel_section_base_order: 
+  			section_graph_exercises_3_1;;
+  		*);
+  		section_graph_exercises_3_1
+  		(*
+  		=> nrel_section_base_order: 
+  			section_graph_exercises_3_2;;
+  		*);
+  		section_graph_exercises_3_2
+  		(*
+  		=> nrel_section_base_order: 
+  			section_graph_exercises_3_3;;
+  		*);
+  		section_graph_exercises_3_3
+  		(*
+  		=> nrel_section_base_order: 
+  			section_graph_exercises_4_1;;
+  		*);
+  		section_graph_exercises_4_1
+  		(*
+  		=> nrel_section_base_order: 
+  			section_graph_exercises_4_2;;
+		*);
+		section_graph_exercises_4_2
+		(*
+		=> nrel_section_base_order: 
+			section_graph_exercises_5_1;;
+		*);
+		section_graph_exercises_5_1
+		(*
+		=> nrel_section_base_order: 
+			section_graph_exercises_5_2;;
+		*);
+		section_graph_exercises_5_2
+		(*
+		=> nrel_section_base_order: 
+			section_graph_exercises_5_3;;
+		*);
+		section_graph_exercises_5_3
+		(*
+		=> nrel_section_base_order: 
+			section_graph_exercises_6_1;;
+		*);
+		section_graph_exercises_6_1
+		(*
+		=> nrel_section_base_order: 
+			section_graph_exercises_6_2;;
+		*);
+		section_graph_exercises_6_2
+		(*
+		=> nrel_section_base_order: 
+			section_graph_exercises_6_3;;
+		*);
+		section_graph_exercises_6_3
+		(*
+		=> nrel_section_base_order: 
+			section_graph_exercises_6_4;;
+		*);
+		section_graph_exercises_6_4	
 	};
 
 <-concept_exercise;;

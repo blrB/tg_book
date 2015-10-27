@@ -4,6 +4,7 @@ section_graph_exercise_2_1_3
 	(* <- lang_ru;; *);
 	[Exercises. Exercise 3]
 	(* <- lang_en;; *);
+=>nrel_next: section_graph_exercise_2_1_4;	
 <= nrel_sc_text_translation:
 		...
 		(* 
@@ -11,6 +12,5 @@ section_graph_exercise_2_1_3
 		*);
 		...
 		(*
-		-> rrel_example: "file://htmls/section_graph_exercise3_en .html" (* <-lang_en;; *);; 
-		*);
-=>graph_exercise_2_1;;
+		-> rrel_example: "file://htmls/section_graph_exercise3_en.html" (* <-lang_en;; *);; 
+		*);;

@@ -12,6 +12,5 @@ section_graph_exercise_2_1_2
 		*);
 		...
 		(*
-		-> rrel_example: "file://htmls/section_graph_exercise2_en .html" (* <-lang_en;; *);; 
-		*);
-=>graph_exercise_2_1;;
+		-> rrel_example: "file://htmls/section_graph_exercise2_en.html" (* <-lang_en;; *);; 
+		*);;
