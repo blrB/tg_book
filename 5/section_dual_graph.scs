@@ -5,7 +5,7 @@ section_dual_graph
 	[Section. Dual graph]
 	(* <- lang_en;; *);
 
-//=> nrel_exercise: section_graph_exercises_5_3;
+=> nrel_exercise: section_graph_exercises_5_3;
 
 
 <= nrel_sc_text_translation: 

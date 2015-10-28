@@ -5,7 +5,7 @@ section_graph_basic_concepts
 	[Section. Basic Concepts]
 	(* <- lang_en;; *);
 
-//=> nrel_exercise: exercise_section_subject_domain_of_graph;
+=> nrel_exercise: exercise_section_subject_domain_of_graph;
 
 <= nrel_section_decomposition:
 	{

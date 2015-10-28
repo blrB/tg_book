@@ -4,7 +4,7 @@ section_methods_of_specifying_graphs
 	(* <- lang_ru;; *);
 	[Section. Methods of specifying graphs]
 	(* <- lang_en;; *);
-//=> nrel_exercise: section_graph_exercises_1_2;
+=> nrel_exercise: section_graph_exercises_1_2;
 <= nrel_sc_text_translation: 
 
 		...

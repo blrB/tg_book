@@ -5,7 +5,7 @@ section_strongly_connected_components_graphs_and_graph
 	[Section. Strongly connected components graphs and graph]
 	(* <- lang_en;; *);
 
-//=> nrel_exercise: section_graph_exercises_2_3;
+=> nrel_exercise: section_graph_exercises_2_3;
 
 
 <= nrel_sc_text_translation: 
