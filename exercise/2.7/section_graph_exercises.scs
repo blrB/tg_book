@@ -5,7 +5,7 @@ section_graph_exercises_2_7
 	[Exercises. The adjacency matrix and incidence]
 	(* <- lang_en;; *);
 
-<= nrel_section_decomposition:
+<= nrel_section_exercises:
 	{
 		section_graph_exercise_2_7_1
 		(*

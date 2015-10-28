@@ -5,7 +5,7 @@ section_graph_exercises_3_3
 	[Exercises. Oriented Euler graphs]
 	(* <- lang_en;; *);
 
-<= nrel_section_decomposition:
+<= nrel_section_exercises:
 	{
 		section_graph_exercise_3_3_1
 		(*

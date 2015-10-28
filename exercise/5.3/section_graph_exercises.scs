@@ -5,7 +5,7 @@ section_graph_exercises_5_3
 	[Exercises. Dual graph]
 	(* <- lang_en;; *);
 
-<= nrel_section_decomposition:
+<= nrel_section_exercises:
 	{
 		section_graph_exercise_5_3_1
 		(*

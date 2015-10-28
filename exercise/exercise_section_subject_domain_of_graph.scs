@@ -2,7 +2,7 @@ exercise_section_subject_domain_of_graph
 => nrel_main_idtf:
 	[Упражнения. Предметная область теории графов]
 	(* <- lang_ru;; *);
-	[Exercise. Section subject domain of graph]
+	[Exercises. Section subject domain of graph]
 	(* <- lang_en;; *);
 
 <= nrel_section_decomposition:

@@ -1,10 +1,12 @@
 section_graph_exercise_1_1_1
 => nrel_main_idtf:
-	[Упражнения. Упражнение 1]
+	[Упражнение. Упражнение 1]
 	(* <- lang_ru;; *);
-	[Exercises. Exercise 1]
+	[Exercise. Exercise 1]
 	(* <- lang_en;; *);
 =>nrel_next: section_graph_exercise_1_1_2;
+<-rrel_key_sc_element: concept_undirected_graph; concept_directed_graph;
+    
 <= nrel_sc_text_translation:
 		...
 		(* 
@@ -18,9 +20,9 @@ section_graph_exercise_1_1_1
 
 graph_exercise_1_1_1_answer
 => nrel_main_idtf:
-	[Упражнения. Упражнение 1 Ответ]
+	[Упражнение. Упражнение 1 Ответ]
 	(* <- lang_ru;; *);
-	[Exercises. Exercise 1 Answer]
+	[Exercise. Exercise 1 Answer]
 	(* <- lang_en;; *);
 <=nrel_sc_text_translation:
     ...

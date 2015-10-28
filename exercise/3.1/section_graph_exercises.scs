@@ -5,7 +5,7 @@ section_graph_exercises_3_1
 	[Exercises. Definitions and examples]
 	(* <- lang_en;; *);
 
-<= nrel_section_decomposition:
+<= nrel_section_exercises:
 	{
 		section_graph_exercise_3_1_1
 		(*

@@ -1,10 +1,11 @@
 section_graph_exercise_2_5_1
 => nrel_main_idtf:
-	[Упражнения. Упражнение 1]
+	[Упражнение. Упражнение 1]
 	(* <- lang_ru;; *);
-	[Exercises. Exercise 1]
+	[Exercise. Exercise 1]
 	(* <- lang_en;; *);
 =>nrel_next: section_graph_exercise_2_5_2;
+<-rrel_key_sc_element: rrel_point_of_articulation;
 <= nrel_sc_text_translation:
 		...
 		(* 

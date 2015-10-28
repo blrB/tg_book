@@ -21,11 +21,11 @@ nrel_exercise
 	<= nrel_sc_text_translation:
 		...
 		(* 
-		-> rrel_example: [Упражнения* — бинарное отношение, связывающее некоторый раздел с упражнениями к нему.] (* <-lang_ru;; *);; 
+		-> rrel_example: [Упражнения. — бинарное отношение, связывающее некоторый раздел с упражнениями к нему.] (* <-lang_ru;; *);; 
 		*);
 		...
 		(* 
-		-> rrel_example: [Exercises* — binary relation connecting certain section whis its exercises.] (* <-lang_en;; *);; 
+		-> rrel_example: [Exercises. — binary relation connecting certain section whis its exercises.] (* <-lang_en;; *);; 
 		*);;
 	*);;
 

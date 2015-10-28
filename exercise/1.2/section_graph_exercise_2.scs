@@ -1,8 +1,8 @@
 section_graph_exercise_1_2_2
 => nrel_main_idtf:
-	[Упражнения. Упражнение 2]
+	[Упражнение. Упражнение 2]
 	(* <- lang_ru;; *);
-	[Exercises. Exercise 2]
+	[Exercise. Exercise 2]
 	(* <- lang_en;; *);
 =>nrel_next: section_graph_exercise_1_2_3;
 <= nrel_sc_text_translation:
@@ -18,9 +18,9 @@ section_graph_exercise_1_2_2
 
 graph_exercise_1_2_2_answer
 => nrel_main_idtf:
-	[Упражнения. Упражнение 2 Ответ]
+	[Упражнение. Упражнение 2 Ответ]
 	(* <- lang_ru;; *);
-	[Exercises. Exercise 2 Answer]
+	[Exercise. Exercise 2 Answer]
 	(* <- lang_en;; *);
 <=nrel_sc_text_translation:
     ...

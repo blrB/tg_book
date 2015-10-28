@@ -5,7 +5,7 @@ section_graph_exercises_4_1
 	[Exercises. Directed acyclic graph]
 	(* <- lang_en;; *);
 
-<= nrel_section_decomposition:
+<= nrel_section_exercises:
 	{
 		section_graph_exercise_4_1_1
 		(*

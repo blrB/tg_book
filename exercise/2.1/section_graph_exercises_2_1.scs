@@ -5,7 +5,7 @@ section_graph_exercises_2_1
 	[Exercises. Types of graphs]
 	(* <- lang_en;; *);
 
-<= nrel_section_decomposition:
+<= nrel_section_exercises:
 	{
 		section_graph_exercise_2_1_1
 		(*
