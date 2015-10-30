@@ -5,7 +5,7 @@ section_graph_exercise_2_1_2
 	[Exercise. Exercise 2]
 	(* <- lang_en;; *);
 <-rrel_key_sc_element: concept_complete_graph;
-=>nrel_next_section: section_graph_exercise_2_1_3;
+=>nrel_next: section_graph_exercise_2_1_3;
 <= nrel_sc_text_translation:
 		...
 		(* 

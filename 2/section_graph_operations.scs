@@ -5,7 +5,7 @@ section_graph_operations
 	[Section. Graph operations]
 	(* <- lang_en;; *);
 
-=> nrel_exercise: section_graph_exercises_2_6;
+=> nrel_exercises: section_graph_exercises_2_6;
 <= nrel_sc_text_translation: 
 
 		...

@@ -4,7 +4,7 @@ section_graph_exercise_2_1_3
 	(* <- lang_ru;; *);
 	[Exercise. Exercise 3]
 	(* <- lang_en;; *);
-=>nrel_next_section: section_graph_exercise_2_1_4;
+=>nrel_next: section_graph_exercise_2_1_4;
 <-rrel_key_sc_element: concept_tree;	
 <= nrel_sc_text_translation:
 		...

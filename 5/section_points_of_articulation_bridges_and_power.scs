@@ -5,7 +5,7 @@ section_points_of_articulation_bridges_and_power
 	[Section. Points of articulation, bridges and power]
 	(* <- lang_en;; *);
 
-=> nrel_exercise: section_graph_exercises_5_2;
+=> nrel_exercises: section_graph_exercises_5_2;
 
 
 <= nrel_sc_text_translation: 

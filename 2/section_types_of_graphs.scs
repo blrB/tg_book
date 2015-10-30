@@ -5,7 +5,7 @@ section_types_of_graphs
 	[Section. Types of graphs]
 	(* <- lang_en;; *);
 
-=> nrel_exercise: section_graph_exercises_2_1;
+=> nrel_exercises: section_graph_exercises_2_1;
 
 
 <= nrel_sc_text_translation: 

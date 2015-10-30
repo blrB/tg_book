@@ -1,23 +1,10 @@
 section_graph_exercises_5_1
 => nrel_main_idtf:
-	[Упражнения. Планарные графы]
+	[Множество упражнений. Планарные графы]
 	(* <- lang_ru;; *);
-	[Exercises. Planar graphs]
+	[Set of exercises. Planar graphs]
 	(* <- lang_en;; *);
 
-<= nrel_section_exercises:
-	{
-		section_graph_exercise_5_1_1
-		(*
-		=> nrel_section_base_order: 
-			section_graph_exercise_5_1_2;;
-		*);
-		section_graph_exercise_5_1_2
-		(*
-		=> nrel_section_base_order: 
-			section_graph_exercise_5_1_3;;
-		*);
-		section_graph_exercise_5_1_3
-	};
-
-<-concept_exercise;;
+->section_graph_exercise_5_1_1;
+->section_graph_exercise_5_1_2;
+->section_graph_exercise_5_1_3;;

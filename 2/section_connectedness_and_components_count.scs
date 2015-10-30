@@ -5,7 +5,7 @@ section_connectedness_and_components_count
 	[Section. Connectedness and components count]
 	(* <- lang_en;; *);
 
-=> nrel_exercise: section_graph_exercises_2_5;
+=> nrel_exercises: section_graph_exercises_2_5;
 
 <= nrel_sc_text_translation: 
 

@@ -5,7 +5,7 @@ section_planar_graphs
 	[Section. Planar graphs]
 	(* <- lang_en;; *);
 
-=> nrel_exercise: section_graph_exercises_5_1;
+=> nrel_exercises: section_graph_exercises_5_1;
 
 
 <= nrel_sc_text_translation: 

@@ -1,23 +1,10 @@
 section_graph_exercises_2_6
 => nrel_main_idtf:
-	[Упражнения. Операции над графами]
+	[Множество упражнений. Операции над графами]
 	(* <- lang_ru;; *);
-	[Exercises. Graph operations]
+	[Set of exercises. Graph operations]
 	(* <- lang_en;; *);
 
-<= nrel_section_exercises:
-	{
-		section_graph_exercise_2_6_1
-		(*
-		=> nrel_section_base_order: 
-			section_graph_exercise_2_6_2;;
-		*);
-		section_graph_exercise_2_6_2
-		(*
-		=> nrel_section_base_order: 
-			section_graph_exercise_2_6_3;;
-		*);
-		section_graph_exercise_2_6_3
-	};
-
-<-concept_exercise;;
+->section_graph_exercise_2_6_1;
+->section_graph_exercise_2_6_2;
+->section_graph_exercise_2_6_3;;

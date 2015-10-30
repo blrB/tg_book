@@ -5,7 +5,7 @@ section_finding_the_shortest_path
 	[Section. Finding the shortest path (Dijkstra)]
 	(* <- lang_en;; *);
 
-=> nrel_exercise: section_graph_exercises_6_4;
+=> nrel_exercises: section_graph_exercises_6_4;
 
 
 <= nrel_sc_text_translation: 

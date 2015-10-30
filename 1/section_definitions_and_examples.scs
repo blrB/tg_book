@@ -5,7 +5,7 @@ section_definitions_and_examples
 	[Section. Definitions and examples]
 	(* <- lang_en;; *);
 
-=> nrel_exercise: section_graph_exercises_1_1;
+=> nrel_exercises: section_graph_exercises_1_1;
 <= nrel_sc_text_translation: 
 
 		...

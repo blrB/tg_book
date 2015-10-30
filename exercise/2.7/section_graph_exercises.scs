@@ -1,23 +1,10 @@
 section_graph_exercises_2_7
 => nrel_main_idtf:
-	[Упражнения. Матрица смежности и инцидентности]
+	[Множество упражнений. Матрица смежности и инцидентности]
 	(* <- lang_ru;; *);
-	[Exercises. The adjacency matrix and incidence]
+	[Set of exercises. The adjacency matrix and incidence]
 	(* <- lang_en;; *);
 
-<= nrel_section_exercises:
-	{
-		section_graph_exercise_2_7_1
-		(*
-		=> nrel_section_base_order: 
-			section_graph_exercise_2_7_2;;
-		*);
-		section_graph_exercise_2_7_2
-		(*
-		=> nrel_section_base_order: 
-			section_graph_exercise_2_7_3;;
-		*);
-		section_graph_exercise_2_7_3
-	};
-
-<-concept_exercise;;
+->section_graph_exercise_2_7_1;
+->section_graph_exercise_2_7_2;
+->section_graph_exercise_2_7_3;;

@@ -1,23 +1,10 @@
 section_graph_exercises_2_2
 => nrel_main_idtf:
-	[Упражнения. Подграфы]
+	[Множество упражнений. Подграфы]
 	(* <- lang_ru;; *);
-	[Exercises. Subgraphs]
+	[Set of exercises. Subgraphs]
 	(* <- lang_en;; *);
 
-<= nrel_section_exercises:
-	{
-		section_graph_exercise_2_2_1
-		(*
-		=> nrel_section_base_order: 
-			section_graph_exercise_2_2_2;;
-		*);
-		section_graph_exercise_2_2_2
-		(*
-		=> nrel_section_base_order: 
-			section_graph_exercise_2_2_3;;
-		*);
-		section_graph_exercise_2_2_3
-	};
-
-<-concept_exercise;;
+->section_graph_exercise_2_2_1;
+->section_graph_exercise_2_2_2;
+->section_graph_exercise_2_2_3;;

@@ -5,7 +5,7 @@ section_oriented_euler_graphs
 	[Section. Oriented Euler graphs]
 	(* <- lang_en;; *);
 
-=> nrel_exercise: section_graph_exercises_3_3;
+=> nrel_exercises: section_graph_exercises_3_3;
 
 
 <= nrel_sc_text_translation: 

@@ -1,23 +1,11 @@
 section_graph_exercises_1_2
 => nrel_main_idtf:
-	[Упражнения. Способы задания графов]
+	[Множество упражнений. Способы задания графов]
 	(* <- lang_ru;; *);
-	[Exercises. Methods of specifying graphs]
+	[Set of exercises. Methods of specifying graphs]
 	(* <- lang_en;; *);
 
-<= nrel_section_exercises:
-	{
-		section_graph_exercise_1_2_1
-		(*
-		=> nrel_section_base_order: 
-			section_graph_exercise_1_2_2;;
-		*);
-		section_graph_exercise_1_2_2
-		(*
-		=> nrel_section_base_order: 
-			section_graph_exercise_1_2_3;;
-		*);
-		section_graph_exercise_1_2_3
-	};
 
-<-concept_exercise;;
+->section_graph_exercise_1_2_1;
+->section_graph_exercise_1_2_2;
+->section_graph_exercise_1_2_3;;

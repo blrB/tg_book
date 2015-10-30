@@ -1,23 +1,10 @@
 section_graph_exercises_6_1
 => nrel_main_idtf:
-	[Упражнения. Исследование лабиринта]
+	[Множество упражнений. Исследование лабиринта]
 	(* <- lang_ru;; *);
-	[Exercises. Research maze]
+	[Set of exercises. Research maze]
 	(* <- lang_en;; *);
 
-<= nrel_section_exercises:
-	{
-		section_graph_exercise_6_1_1
-		(*
-		=> nrel_section_base_order: 
-			section_graph_exercise_6_1_2;;
-		*);
-		section_graph_exercise_6_1_2
-		(*
-		=> nrel_section_base_order: 
-			section_graph_exercise_6_1_3;;
-		*);
-		section_graph_exercise_6_1_3
-	};
-
-<-concept_exercise;;
+->section_graph_exercise_6_1_1;
+->section_graph_exercise_6_1_2;
+->section_graph_exercise_6_1_3;;
