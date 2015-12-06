@@ -5,7 +5,7 @@ section_graph_exercise_1_1_2
 	[Exercise. Exercise 2]
 	(* <- lang_en;; *);
 =>nrel_next: section_graph_exercise_1_1_3;
-<-rrel_key_sc_element: rrel_vertex; rrel_edge;
+<-rrel_key_sc_element: concept_undirected_graph;
 <= nrel_sc_text_translation:
 		...
 		(* 
@@ -14,21 +14,4 @@ section_graph_exercise_1_1_2
 		...
 		(*
 		-> rrel_example: "file://htmls/section_graph_exercise2_en .html" (* <-lang_en;; *);; 
-		*);
-=>graph_exercise_1_1_2_answer;;
-
-graph_exercise_1_1_2_answer
-=> nrel_main_idtf:
-	[Упражнение. Упражнение 2 Ответ]
-	(* <- lang_ru;; *);
-	[Exercise. Exercise 2 Answer]
-	(* <- lang_en;; *);
-<=nrel_sc_text_translation:
-    ...
-    (*
-    -> rrel_example: [Две вершины смежны, если они являются концевыми вершинами некоторого ребра. Если два ребра имеют общую концевую вершину, они называются смежными.] (*<-lang_ru;;*);;
-    *);
-	...
-	(*
-    -> rrel_example: [Two vertices are adjacent if they are end vertices of an edge. If two edges have a common top end, they are called adjacent.] (*<-lang_ru;;*);;
-    *);;
+		*);;

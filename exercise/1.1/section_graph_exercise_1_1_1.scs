@@ -5,7 +5,7 @@ section_graph_exercise_1_1_1
 	[Exercise. Exercise 1]
 	(* <- lang_en;; *);
 =>nrel_next: section_graph_exercise_1_1_2;
-<-rrel_key_sc_element: concept_undirected_graph; concept_directed_graph;
+<-rrel_key_sc_element: concept_directed_graph;
     
 <= nrel_sc_text_translation:
 		...
@@ -15,22 +15,4 @@ section_graph_exercise_1_1_1
 		...
 		(*
 		-> rrel_example: "file://htmls/section_graph_exercise1_en.html" (* <-lang_en;; *);; 
-		*);
-=>graph_exercise_1_1_1_answer;;
-
-graph_exercise_1_1_1_answer
-=> nrel_main_idtf:
-	[Упражнение. Упражнение 1 Ответ]
-	(* <- lang_ru;; *);
-	[Exercise. Exercise 1 Answer]
-	(* <- lang_en;; *);
-<=nrel_sc_text_translation:
-    ...
-    (*
-    -> rrel_example: [Каждое ребро определяется парой вершин. Если ребра графа определяются упорядоченными парами вершин, то G называется направленным или ориентированным графом. В противном случае G называется ненаправленным или неориентированным графом.] (*<-lang_ru;;*);;
-    *);
-	...
-	(*
-    -> rrel_example: [Each edge is defined by a pair of vertices. If the edges of the graph are defined by ordered pairs of vertices, then G is called a directional or directed graph. Otherwise G is undirected or undirected graph.] (*<-lang_ru;;*);;
-    *);;
-
+		*);;
