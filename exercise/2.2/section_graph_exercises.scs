@@ -5,6 +5,4 @@ section_graph_exercises_2_2
 	[Set of exercises. Subgraphs]
 	(* <- lang_en;; *);
 
-->section_graph_exercise_2_2_1;
-->section_graph_exercise_2_2_2;
-->section_graph_exercise_2_2_3;;
+->section_graph_exercise_2_2_1;;

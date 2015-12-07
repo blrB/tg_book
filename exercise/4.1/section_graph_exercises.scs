@@ -5,6 +5,4 @@ section_graph_exercises_4_1
 	[Set of exercises. Directed acyclic graph]
 	(* <- lang_en;; *);
 
-->section_graph_exercise_4_1_1;
-->section_graph_exercise_4_1_2;
-->section_graph_exercise_4_1_3;;
+->section_graph_exercise_4_1_1;;

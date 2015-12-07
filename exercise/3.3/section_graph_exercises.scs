@@ -5,6 +5,4 @@ section_graph_exercises_3_3
 	[Set of exercises. Oriented Euler graphs]
 	(* <- lang_en;; *);
 
-->section_graph_exercise_3_3_1;
-->section_graph_exercise_3_3_2;
-->section_graph_exercise_3_3_3;;
+->section_graph_exercise_3_3_1;;

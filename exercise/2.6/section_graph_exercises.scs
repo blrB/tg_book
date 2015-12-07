@@ -5,6 +5,5 @@ section_graph_exercises_2_6
 	[Set of exercises. Graph operations]
 	(* <- lang_en;; *);
 
-->section_graph_exercise_2_6_1;
-->section_graph_exercise_2_6_2;
-->section_graph_exercise_2_6_3;;
+->section_graph_exercise_2_6_1;;
+

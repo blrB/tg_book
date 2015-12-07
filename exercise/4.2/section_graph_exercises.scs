@@ -5,6 +5,5 @@ section_graph_exercises_4_2
 	[Set of exercises. Trees]
 	(* <- lang_en;; *);
 
-->section_graph_exercise_4_2_1;
-->section_graph_exercise_4_2_2;
-->section_graph_exercise_4_2_3;;
+->section_graph_exercise_4_2_1;;
+

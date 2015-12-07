@@ -5,6 +5,4 @@ section_graph_exercises_3_2
 	[Set of exercises. Digraph and matrix]
 	(* <- lang_en;; *);
 
-->section_graph_exercise_3_2_1;
-->section_graph_exercise_3_2_2;
-->section_graph_exercise_3_2_3;;
+->section_graph_exercise_3_2_1;;

@@ -5,6 +5,4 @@ section_graph_exercises_2_5
 	[Set of exercises. Connectedness and components count]
 	(* <- lang_en;; *);
 
-->section_graph_exercise_2_5_1;
-->section_graph_exercise_2_5_2;
-->section_graph_exercise_2_5_3;;
+->section_graph_exercise_2_5_1;;

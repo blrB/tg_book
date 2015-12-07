@@ -4,7 +4,6 @@ section_graph_exercise_2_3_2
 	(* <- lang_ru;; *);
 	[Exercise. Exercise 2]
 	(* <- lang_en;; *);
-=>nrel_next: section_graph_exercise_2_3_3;
 <= nrel_sc_text_translation:
 		...
 		(* 
@@ -14,4 +13,4 @@ section_graph_exercise_2_3_2
 		(*
 		-> rrel_example: "file://htmls/section_graph_exercise2_en .html" (* <-lang_en;; *);; 
 		*);
-=>graph_exercise_2_1_1;;
+<-rrel_key_sc_element: concept_strongly_connected_graph;;

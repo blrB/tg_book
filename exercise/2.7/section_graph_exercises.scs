@@ -5,6 +5,4 @@ section_graph_exercises_2_7
 	[Set of exercises. The adjacency matrix and incidence]
 	(* <- lang_en;; *);
 
-->section_graph_exercise_2_7_1;
-->section_graph_exercise_2_7_2;
-->section_graph_exercise_2_7_3;;
+->section_graph_exercise_2_7_1;;

@@ -4,7 +4,6 @@ section_graph_exercise_2_2_1
 	(* <- lang_ru;; *);
 	[Exercise. Exercise 1]
 	(* <- lang_en;; *);
-=>nrel_next: section_graph_exercise_2_2_2;
 <= nrel_sc_text_translation:
 		...
 		(* 
@@ -14,4 +13,21 @@ section_graph_exercise_2_2_1
 		(*
 		-> rrel_example: "file://htmls/section_graph_exercise1_en.html" (* <-lang_en;; *);; 
 		*);
-=>graph_exercise_2_1_1;;
+<-rrel_key_sc_element: nrel_subgraph;
+=>graph_exercise_2_2_1_answer;;
+
+graph_exercise_2_2_1_answer
+=> nrel_main_idtf:
+	[Упражнение. Упражнение 1 Ответ]
+	(* <- lang_ru;; *);
+	[Exercise. Exercise 1 Answer]
+	(* <- lang_en;; *);
+<=nrel_sc_text_translation:
+    ...
+    (*
+    -> rrel_example: [Остовный подграф - это подграф, имеющий то же самое множество вершин, что и исходный граф, но множество дуг подграфа является подмножеством множества дуг исходного графа.] (*<-lang_ru;;*);;
+    *);
+	...
+	(*
+    -> rrel_example: [Spanning subgraph is a subgraph that has the same set of nodes as the original graph, but a set of arcs of the subgraph is a subset of the set of arcs of the original graph.] (*<-lang_en;;*);;
+    *);;

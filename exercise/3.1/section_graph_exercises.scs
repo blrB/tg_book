@@ -5,6 +5,4 @@ section_graph_exercises_3_1
 	[Set of exercises. Definitions and examples]
 	(* <- lang_en;; *);
 
-->section_graph_exercise_3_1_1;
-->section_graph_exercise_3_1_2;
-->section_graph_exercise_3_1_3;;
+->section_graph_exercise_3_1_1;;

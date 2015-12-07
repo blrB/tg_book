@@ -4,7 +4,6 @@ section_graph_exercise_3_3_1
 	(* <- lang_ru;; *);
 	[Exercise. Exercise 1]
 	(* <- lang_en;; *);
-=>nrel_next: section_graph_exercise_3_3_2;
 <= nrel_sc_text_translation:
 		...
 		(* 
@@ -14,4 +13,4 @@ section_graph_exercise_3_3_1
 		(*
 		-> rrel_example: "file://htmls/section_graph_exercise1_en.html" (* <-lang_en;; *);; 
 		*);
-=>graph_exercise_2_1_1;;
+<-rrel_key_sc_element: concept_eulerian_graph;;
