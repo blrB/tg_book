@@ -20,17 +20,16 @@
 </head>
 <body lang="ru-RU" dir="ltr">
 <h5 class="western" style="margin-left: 1.25cm"><font face="Times New Roman, serif"><font size="4" style="font-size: 14pt">
-Точки сочленения, мосты и блоки</font></font></h5>
+<i><sc_element sys_idtf = "rrel_point_of_articulation">Точки сочленения</sc_element></i>, мосты и блоки</font></font></h5>
 <p align="justify" style="text-indent: 1.25cm; margin-bottom: 0cm; line-height: 130%">
 <font size="4" style="font-size: 14pt">Точкой сочленения
-графа называется вершина, удаление
+графа называется <i><sc_element sys_idtf = "concept_node">вершина</sc_element></i>, удаление
 которой увеличивает число компонент;
 ребро с таким же свойством называется
-мостом. Таким образом, если v — точка
-сочленения <i><sc_element sys_idtf = "concept_connected_graph">связного графа</sc_element></i> G, то <i><sc_element sys_idtf = "concept_graph">граф</sc_element></i> G—v
+мостом. Таким образом, если v — точка сочленения <i><sc_element sys_idtf = "concept_connected_graph">связного графа</sc_element></i> G, то <i><sc_element sys_idtf = "concept_graph">граф</sc_element></i> G—v
 не связен. Неразделимым графом называется непустой, не имеющий точек
-сочленения <i><sc_element sys_idtf = "concept_graph">граф</sc_element></i>. Блок графа — это его
-максимальный неразделимый подграф.
+сочленения граф. Блок графа — это его
+максимальный неразделимый <i><sc_element sys_idtf = "nrel_subgraph">подграф</sc_element></i>.
 Если G — неразделимый граф, то часто он
 сам называется блоком. </font>
 </p>
@@ -38,7 +37,7 @@
 <font size="4" style="font-size: 14pt">На рисунке 37 v —
 точка сочленения, a w нет, х — мост, а у
 нет; отдельно приведены четыре блока
-<i><sc_element sys_idtf = "concept_graph">графа</sc_element></i> G. Каждое ребро графа принадлежит
+графа G. Каждое ребро графа принадлежит
 точно одному из его блоков, так же как
 и каждая вершина, не являющаяся ни
 изолированной, ни точкой сочленения.
@@ -51,7 +50,7 @@ G также принадлежат только одному блоку.
 первых трех теоремах этой главы
 устанавливаются несколько эквивалентных
 условий, обеспечивающих существование
-у <i><sc_element sys_idtf = "concept_graph">графа</sc_element></i> точки сочленения и моста и
+у графа точки сочленения и моста и
 неразделимость графа.</font></p>
 <p align="justify" style="text-indent: 1.25cm; margin-bottom: 0cm; line-height: 130%">
 <font size="4" style="font-size: 14pt"><b>Теорема 6.</b></font><font size="4" style="font-size: 14pt">
@@ -85,7 +84,7 @@ W вершина v принадлежит любой простой
 <p align="justify" style="text-indent: 1.25cm; margin-bottom: 0cm; line-height: 130%">
 <font size="4" style="font-size: 14pt"><b>Доказательство</b></font><font size="4" style="font-size: 14pt">.
 (1) влечет (3). Так как v — точка сочленения
-графа G, то <i><sc_element sys_idtf = "concept_graph">граф</sc_element></i> G — v не связен и имеет
+графа G, то граф G — v не связен и имеет
 по крайней мере две компоненты. Образуем
 разбиение V—{v}, отнеся к U вершины одной
 из этих компонент, а к </font><font size="4" style="font-size: 14pt"><span lang="en-US">W</span></font><font size="4" style="font-size: 14pt">
@@ -113,7 +112,7 @@ v принадлежит любой простой цепи в G,
 — точка сочленения графа G. ▪</font></p>
 <p align="justify" style="text-indent: 1.25cm; margin-bottom: 0cm; line-height: 130%">
 <font size="4" style="font-size: 14pt"><b>Теорема 7.</b></font><font size="4" style="font-size: 14pt">
-Пусть х — ребро <i><sc_element sys_idtf = "concept_connected_graph">связного графа</sc_element></i> G. Следующие
+Пусть х — ребро связного графа G. Следующие
 утверждения эквивалентны: </font>
 </p>
 <p align="justify" style="text-indent: 1.25cm; margin-bottom: 0cm; line-height: 130%">
@@ -140,7 +139,7 @@ W ребро х принадлежит любой простой
 (</font><font size="4" style="font-size: 14pt"><span lang="en-US">u</span></font><font size="4" style="font-size: 14pt">-</font><font size="4" style="font-size: 14pt"><span lang="en-US">w</span></font><font size="4" style="font-size: 14pt">)-цепи.</font></p>
 <p align="justify" style="text-indent: 1.25cm; margin-bottom: 0cm; line-height: 130%">
 <font size="4" style="font-size: 14pt"><b>Теорема 8</b></font><font size="4" style="font-size: 14pt">.
-Пусть G — <i><sc_element sys_idtf = "concept_connected_graph">связный граф</sc_element></i> с не менее чем
+Пусть G — связный граф с не менее чем
 тремя вершинами. Следующие утверждения
 эквивалентны: </font>
 </p>
@@ -338,7 +337,7 @@ v и w — различные вершины графа G. Из
 </p>
 <p align="justify" style="text-indent: 1.25cm; margin-bottom: 0cm; line-height: 130%">
 <font size="4" style="font-size: 14pt"><b>Теорема 9.</b></font><font size="4" style="font-size: 14pt">
-В любом нетривиальном <i><sc_element sys_idtf = "concept_connected_graph">связном графе</sc_element></i>
+В любом нетривиальном связном графе
 найдутся по крайней мере две вершины,
 не являющиеся точками сочленения. </font>
 </p>
